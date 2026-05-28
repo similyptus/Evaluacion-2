@@ -22,3 +22,7 @@ Esta funcionalidad permite registrar licencias médicas por trabajador, indicand
 - Seguridad: la información médica debe ser tratada con resguardo.
 - Usabilidad: el registro debe ser simple para el encargado de Recursos Humanos.
 - Mantenibilidad: el sistema debe permitir nuevos tipos o estados de licencia.
+
+- ## Evidencia Jira
+
+Actividad vinculada en Jira: SCRUM-34.
