@@ -22,3 +22,7 @@ Esta funcionalidad permite registrar solicitudes de vacaciones, calcular días h
 - Confiabilidad: los días disponibles y usados deben calcularse correctamente.
 - Disponibilidad: la información debe estar accesible para el personal autorizado.
 - Seguridad: solo usuarios autorizados deben aprobar o rechazar solicitudes.
+
+## Evidencia Jira
+
+Actividad vinculada en Jira: SCRUM-36.
