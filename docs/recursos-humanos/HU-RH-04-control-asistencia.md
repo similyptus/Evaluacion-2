@@ -22,3 +22,7 @@ Esta funcionalidad permite registrar y consultar la asistencia diaria del person
 - Eficiencia: las consultas deben responder rápidamente.
 - Usabilidad: la visualización debe ser clara para Recursos Humanos.
 - Disponibilidad: la información debe estar accesible para usuarios autorizados.
+
+- ## Evidencia Jira
+
+Actividad vinculada en Jira: SCRUM-35.
