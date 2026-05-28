@@ -22,3 +22,7 @@ Esta funcionalidad permite registrar y consultar la ficha completa de cada traba
 - Seguridad: la información del trabajador debe estar protegida.
 - Confiabilidad: los datos registrados deben mantenerse completos y correctos.
 - Mantenibilidad: la funcionalidad debe permitir futuras modificaciones.
+
+- ## Evidencia Jira
+
+Actividad vinculada en Jira: SCRUM-1.
