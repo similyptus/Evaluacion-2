@@ -22,3 +22,7 @@ Esta funcionalidad permite registrar contratos laborales asociados a cada emplea
 - Confiabilidad: los datos laborales deben ser correctos y consistentes.
 - Mantenibilidad: el módulo debe permitir nuevos formatos de contrato o finiquito.
 - Usabilidad: la información debe poder registrarse de forma clara y ordenada.
+
+## Evidencia Jira
+
+Actividad vinculada en Jira: SCRUM-21.
